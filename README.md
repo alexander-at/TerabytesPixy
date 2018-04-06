@@ -1,3 +1,8 @@
+This is the Terabytes FTC 4149 team's repository for changes to improve pixy for use 
+with First Tech Challenge games and the equipment typically used for robot control.
+
+
+
 libpixyusb API Reference:
 
 http://charmedlabs.github.io/pixy/index.html
